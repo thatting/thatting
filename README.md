@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thatting
-- 👀 I’m interested in cloud computing, machine learning and data analytics 
+- 👀 I’m interested in Cloud Computing, Programming, Machine Learning and DevOps 
 - 🌱 I’m currently preparing for the AWS Developer Associate and AWS Machine Learning Specialty exams. Also, as always, I am honing my skills
       in my favourite languages: Python, JavaScript and C.
 - 💞️ I’m looking to collaborate on cloud projects as a Solutions Architect and/or Developer
