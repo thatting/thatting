@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @thatting
-- 👀 I’m interested in Cloud Computing, Programming, Machine Learning and DevOps 
-- 🌱 I’m currently preparing for the AWS Developer Associate and AWS Machine Learning Specialty exams. Also, as always, I am honing my skills
-      in my favourite languages: Python, JavaScript and C.
-- 💞️ I’m looking to collaborate on cloud projects as a Solutions Architect and/or Developer
+- 👀 I’m interested in Programming, Cloud Computing, Machine Learning and DevOps 
+- 🌱 I have passed the AWS Solutions Architect exam and am currently preparing for the Developer Associate and SysOps Administrator exams. Also, as always, I am honing my skills in programming. My favourite language is Python but I can also work in JavaScript and C/C+. Currently, I am working on a number of machine learning projects on Computer Vision and Natural Language Processing.
+- 💞️ I’m looking to collaborate on projects as a Cloud Developer / Architect. 
 - 📫 How to reach me: mail@thomashatting.co
 
 <!---
